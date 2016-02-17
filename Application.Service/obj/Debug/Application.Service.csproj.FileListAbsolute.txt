@@ -1,0 +1,4 @@
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Service\bin\Debug\Application.Service.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Service\bin\Debug\Application.Service.pdb
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Service\obj\Debug\Application.Service.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Service\obj\Debug\Application.Service.pdb

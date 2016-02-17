@@ -1,0 +1,16 @@
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Application.Data.dll.config
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Application.Data.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Application.Data.pdb
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Application.Model.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\EntityFramework.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Application.Model.pdb
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\EntityFramework.xml
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\obj\Debug\Application.Data.dll
+C:\Users\bs062\Documents\Visual Studio 2013\Projects\base-plate\Application.Data\obj\Debug\Application.Data.pdb
